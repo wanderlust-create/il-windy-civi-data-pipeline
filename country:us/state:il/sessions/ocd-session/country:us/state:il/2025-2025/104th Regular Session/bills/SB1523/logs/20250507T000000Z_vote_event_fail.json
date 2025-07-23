@@ -1,0 +1,48 @@
+{
+  "identifier": "",
+  "motion_text": "Third Reading, Amendment 1",
+  "motion_classification": [],
+  "start_date": "2025-05-07",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "8bbc9704-676d-11f0-8268-1e2a98079f2e",
+  "bill_action": null,
+  "bill_identifier": "SB1523",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 0
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400SB1523HFA1_44031.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400SB1523HFA1_44031.pdf",
+  "_id": "8bf64ef4-676d-11f0-8268-1e2a98079f2e"
+}

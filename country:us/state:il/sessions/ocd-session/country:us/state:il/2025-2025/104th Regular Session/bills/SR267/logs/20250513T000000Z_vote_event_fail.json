@@ -1,0 +1,48 @@
+{
+  "identifier": "",
+  "motion_text": "Education",
+  "motion_classification": [],
+  "start_date": "2025-05-13",
+  "result": "fail",
+  "organization": "~{\"classification\": \"lower\"}",
+  "legislative_session": "104th",
+  "bill": "acb67456-676e-11f0-8268-1e2a98079f2e",
+  "bill_action": null,
+  "bill_identifier": "SR267",
+  "votes": [],
+  "counts": [
+    {
+      "option": "yes",
+      "value": 0
+    },
+    {
+      "option": "no",
+      "value": 0
+    },
+    {
+      "option": "other",
+      "value": 0
+    },
+    {
+      "option": "excused",
+      "value": 0
+    },
+    {
+      "option": "absent",
+      "value": 0
+    },
+    {
+      "option": "not voting",
+      "value": 0
+    }
+  ],
+  "sources": [
+    {
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SR0267_44191.pdf",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SR0267_44191.pdf",
+  "_id": "acd845b8-676e-11f0-8268-1e2a98079f2e"
+}
