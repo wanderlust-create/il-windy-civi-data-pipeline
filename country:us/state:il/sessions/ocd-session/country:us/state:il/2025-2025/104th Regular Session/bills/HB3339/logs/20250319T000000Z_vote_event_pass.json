@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "5f7ae1f2-676b-11f0-8268-1e2a98079f2e",
+  "bill": "2ea7742c-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB3339",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3339_42499.pdf",
-  "_id": "5fcd5824-676b-11f0-8268-1e2a98079f2e"
+  "_id": "2ebcb986-682f-11f0-88c7-dabfb9862d1a"
 }

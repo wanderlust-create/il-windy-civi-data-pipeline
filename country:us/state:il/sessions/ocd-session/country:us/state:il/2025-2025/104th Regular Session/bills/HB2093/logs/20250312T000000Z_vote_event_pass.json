@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "5788a426-676a-11f0-8268-1e2a98079f2e",
+  "bill": "0bdb9950-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB2093",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2093_42108.pdf",
-  "_id": "57a7d2c4-676a-11f0-8268-1e2a98079f2e"
+  "_id": "0bdfe37a-682f-11f0-88c7-dabfb9862d1a"
 }

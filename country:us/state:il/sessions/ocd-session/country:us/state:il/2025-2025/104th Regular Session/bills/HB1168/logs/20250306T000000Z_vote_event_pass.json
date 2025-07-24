@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "9b5c8b6e-6769-11f0-8268-1e2a98079f2e",
+  "bill": "f567fe84-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB1168",
   "votes": [
@@ -135,5 +135,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1168_41981.pdf",
-  "_id": "9b953e14-6769-11f0-8268-1e2a98079f2e"
+  "_id": "f576967e-682e-11f0-88c7-dabfb9862d1a"
 }

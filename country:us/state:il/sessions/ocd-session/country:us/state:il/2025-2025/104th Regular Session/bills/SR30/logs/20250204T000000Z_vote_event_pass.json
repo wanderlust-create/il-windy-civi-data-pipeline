@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "8259c762-676e-11f0-8268-1e2a98079f2e",
+  "bill": "90eb0fea-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "SR30",
   "votes": [
@@ -129,5 +129,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SR0030_41619.pdf",
-  "_id": "827d14c4-676e-11f0-8268-1e2a98079f2e"
+  "_id": "90efa83e-682f-11f0-88c7-dabfb9862d1a"
 }

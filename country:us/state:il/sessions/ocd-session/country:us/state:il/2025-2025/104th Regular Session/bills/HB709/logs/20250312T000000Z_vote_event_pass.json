@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "404c2392-6769-11f0-8268-1e2a98079f2e",
+  "bill": "ea3c75b2-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB709",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0709_42109.pdf",
-  "_id": "406e7a50-6769-11f0-8268-1e2a98079f2e"
+  "_id": "ea40c0cc-682e-11f0-88c7-dabfb9862d1a"
 }

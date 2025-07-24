@@ -1,33 +1,15 @@
 {
   "identifier": "",
-  "motion_text": "Revenue & Finance",
+  "motion_text": "Finance Subcommittee",
   "motion_classification": [],
   "start_date": "2025-03-13",
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "c8cf9ed8-6769-11f0-8268-1e2a98079f2e",
+  "bill": "fac6d8d2-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB1390",
   "votes": [
-    {
-      "option": "yes",
-      "voter_name": "Avelar, Dagmara",
-      "voter_id": "~{\"name\": \"Avelar, Dagmara\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
-      "voter_name": "Croke, Margaret",
-      "voter_id": "~{\"name\": \"Croke, Margaret\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
-      "voter_name": "Buckner, Kam",
-      "voter_id": "~{\"name\": \"Buckner, Kam\"}",
-      "note": ""
-    },
     {
       "option": "yes",
       "voter_name": "Didech, Daniel",
@@ -42,68 +24,8 @@
     },
     {
       "option": "yes",
-      "voter_name": "Gonz\u00e1lez Jr., Edgar",
-      "voter_id": "~{\"name\": \"Gonz\\u00e1lez Jr., Edgar\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
-      "voter_name": "Elik, Amy",
-      "voter_id": "~{\"name\": \"Elik, Amy\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
-      "voter_name": "Guzzardi, Will",
-      "voter_id": "~{\"name\": \"Guzzardi, Will\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
       "voter_name": "Mayfield, Rita",
       "voter_id": "~{\"name\": \"Mayfield, Rita\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
-      "voter_name": "Hernandez, Elizabeth \"Lisa\"",
-      "voter_id": "~{\"name\": \"Hernandez, Elizabeth \\\"Lisa\\\"\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
-      "voter_name": "Moore, Kyle",
-      "voter_id": "~{\"name\": \"Moore, Kyle\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
-      "voter_name": "McLaughlin, Martin",
-      "voter_id": "~{\"name\": \"McLaughlin, Martin\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
-      "voter_name": "Reick, Steven",
-      "voter_id": "~{\"name\": \"Reick, Steven\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
-      "voter_name": "Sosnowski, Joe C",
-      "voter_id": "~{\"name\": \"Sosnowski, Joe C\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
-      "voter_name": "Slaughter, Justin",
-      "voter_id": "~{\"name\": \"Slaughter, Justin\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
-      "voter_name": "Weaver, Travis",
-      "voter_id": "~{\"name\": \"Weaver, Travis\"}",
       "note": ""
     },
     {
@@ -113,28 +35,22 @@
       "note": ""
     },
     {
-      "option": "not voting",
-      "voter_name": "Andrade Jr., Jaime M",
-      "voter_id": "~{\"name\": \"Andrade Jr., Jaime M\"}",
+      "option": "yes",
+      "voter_name": "Sosnowski, Joe C",
+      "voter_id": "~{\"name\": \"Sosnowski, Joe C\"}",
       "note": ""
     },
     {
       "option": "not voting",
-      "voter_name": "Harper, Sonya M",
-      "voter_id": "~{\"name\": \"Harper, Sonya M\"}",
-      "note": ""
-    },
-    {
-      "option": "not voting",
-      "voter_name": "Sanalitro, Jennifer",
-      "voter_id": "~{\"name\": \"Sanalitro, Jennifer\"}",
+      "voter_name": "McLaughlin, Martin",
+      "voter_id": "~{\"name\": \"McLaughlin, Martin\"}",
       "note": ""
     }
   ],
   "counts": [
     {
       "option": "yes",
-      "value": 17
+      "value": 5
     },
     {
       "option": "no",
@@ -154,16 +70,16 @@
     },
     {
       "option": "not voting",
-      "value": 3
+      "value": 1
     }
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1390_42176.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1390_42174.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1390_42176.pdf",
-  "_id": "c8fdd2bc-6769-11f0-8268-1e2a98079f2e"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1390_42174.pdf",
+  "_id": "facf7a8c-682e-11f0-88c7-dabfb9862d1a"
 }

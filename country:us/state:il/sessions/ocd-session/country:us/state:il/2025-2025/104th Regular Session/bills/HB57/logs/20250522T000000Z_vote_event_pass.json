@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "bde955d2-6768-11f0-8268-1e2a98079f2e",
+  "bill": "da3116aa-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB57",
   "votes": [
@@ -393,5 +393,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/10400HB0057_05222025_054002.pdf",
-  "_id": "be13b494-6768-11f0-8268-1e2a98079f2e"
+  "_id": "da3642d8-682e-11f0-88c7-dabfb9862d1a"
 }

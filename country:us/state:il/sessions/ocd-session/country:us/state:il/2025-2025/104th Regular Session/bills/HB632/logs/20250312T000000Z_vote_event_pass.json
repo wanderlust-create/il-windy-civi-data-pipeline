@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "30f6c26c-6769-11f0-8268-1e2a98079f2e",
+  "bill": "e8476af0-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB632",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0632_42109.pdf",
-  "_id": "31183b2c-6769-11f0-8268-1e2a98079f2e"
+  "_id": "e84bad5e-682e-11f0-88c7-dabfb9862d1a"
 }

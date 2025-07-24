@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "88b20bc4-6769-11f0-8268-1e2a98079f2e",
+  "bill": "f32eb658-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB1074",
   "votes": [
@@ -81,5 +81,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1074_42021.pdf",
-  "_id": "88db9804-6769-11f0-8268-1e2a98079f2e"
+  "_id": "f335466c-682e-11f0-88c7-dabfb9862d1a"
 }

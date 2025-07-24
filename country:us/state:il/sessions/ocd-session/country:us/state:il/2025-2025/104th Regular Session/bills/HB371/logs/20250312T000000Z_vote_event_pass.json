@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "fcce9a00-6768-11f0-8268-1e2a98079f2e",
+  "bill": "e1dd5b34-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB371",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0371_42109.pdf",
-  "_id": "fd26817a-6768-11f0-8268-1e2a98079f2e"
+  "_id": "e1e19d16-682e-11f0-88c7-dabfb9862d1a"
 }

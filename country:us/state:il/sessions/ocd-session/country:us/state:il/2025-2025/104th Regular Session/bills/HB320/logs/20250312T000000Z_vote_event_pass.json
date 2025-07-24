@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "f2e09e80-6768-11f0-8268-1e2a98079f2e",
+  "bill": "e09e0750-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB320",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0320_42109.pdf",
-  "_id": "f3023dc4-6768-11f0-8268-1e2a98079f2e"
+  "_id": "e0a2add2-682e-11f0-88c7-dabfb9862d1a"
 }

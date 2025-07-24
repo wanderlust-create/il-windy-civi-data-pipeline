@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "3c89998c-676a-11f0-8268-1e2a98079f2e",
+  "bill": "0881ea8e-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB1956",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1956_42108.pdf",
-  "_id": "3ca9f236-676a-11f0-8268-1e2a98079f2e"
+  "_id": "08867716-682f-11f0-88c7-dabfb9862d1a"
 }

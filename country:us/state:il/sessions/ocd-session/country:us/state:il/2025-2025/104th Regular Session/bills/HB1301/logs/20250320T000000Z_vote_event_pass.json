@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "b5b0bbc0-6769-11f0-8268-1e2a98079f2e",
+  "bill": "f841010a-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB1301",
   "votes": [
@@ -99,5 +99,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1301_42762.pdf",
-  "_id": "b5d631ca-6769-11f0-8268-1e2a98079f2e"
+  "_id": "f845da36-682e-11f0-88c7-dabfb9862d1a"
 }

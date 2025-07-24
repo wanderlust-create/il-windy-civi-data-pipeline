@@ -1,12 +1,12 @@
 {
   "identifier": "",
-  "motion_text": "Executive, Amendment 2",
+  "motion_text": "Executive, Amendment 3",
   "motion_classification": [],
   "start_date": "2025-05-31",
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "4871358a-676e-11f0-8268-1e2a98079f2e",
+  "bill": "8a4e8568-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "SB2418",
   "votes": [],
@@ -38,11 +38,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB2418HFA2_44807.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB2418HFA3_44808.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB2418HFA2_44807.pdf",
-  "_id": "48a67fb0-676e-11f0-8268-1e2a98079f2e"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB2418HFA3_44808.pdf",
+  "_id": "8a5b3a92-682f-11f0-88c7-dabfb9862d1a"
 }

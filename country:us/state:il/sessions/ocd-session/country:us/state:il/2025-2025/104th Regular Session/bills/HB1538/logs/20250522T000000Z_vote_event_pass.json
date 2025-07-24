@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "e5391810-6769-11f0-8268-1e2a98079f2e",
+  "bill": "fdd6a82c-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB1538",
   "votes": [
@@ -393,5 +393,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/10400HB1538_05222025_054017.pdf",
-  "_id": "e55d2070-6769-11f0-8268-1e2a98079f2e"
+  "_id": "fddb8acc-682e-11f0-88c7-dabfb9862d1a"
 }

@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "8542fa88-676a-11f0-8268-1e2a98079f2e",
+  "bill": "11d26a78-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB2319",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2319_42108.pdf",
-  "_id": "85681a5c-676a-11f0-8268-1e2a98079f2e"
+  "_id": "11d6e152-682f-11f0-88c7-dabfb9862d1a"
 }

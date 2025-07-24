@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "36717bb8-676b-11f0-8268-1e2a98079f2e",
+  "bill": "295badda-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB3144",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3144_43791.pdf",
-  "_id": "36a2f9ea-676b-11f0-8268-1e2a98079f2e"
+  "_id": "2965da3a-682f-11f0-88c7-dabfb9862d1a"
 }

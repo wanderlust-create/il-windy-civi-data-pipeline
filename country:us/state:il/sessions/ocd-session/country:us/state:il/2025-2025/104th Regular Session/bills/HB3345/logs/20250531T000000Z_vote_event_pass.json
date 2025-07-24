@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "60d8ea30-676b-11f0-8268-1e2a98079f2e",
+  "bill": "2eda246c-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB3345",
   "votes": [
@@ -393,5 +393,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/10400HB3345_05312025_082000T.pdf",
-  "_id": "60ff66b0-676b-11f0-8268-1e2a98079f2e"
+  "_id": "2edf6c06-682f-11f0-88c7-dabfb9862d1a"
 }

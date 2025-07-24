@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "b8a6b428-676a-11f0-8268-1e2a98079f2e",
+  "bill": "18c6347c-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB2551",
   "votes": [
@@ -393,5 +393,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/10400HB2551_05222025_054045.pdf",
-  "_id": "b8dac466-676a-11f0-8268-1e2a98079f2e"
+  "_id": "18cbe516-682f-11f0-88c7-dabfb9862d1a"
 }

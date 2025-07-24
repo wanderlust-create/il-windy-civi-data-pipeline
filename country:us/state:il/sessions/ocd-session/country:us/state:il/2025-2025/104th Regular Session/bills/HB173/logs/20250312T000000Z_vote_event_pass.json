@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "d522bbda-6768-11f0-8268-1e2a98079f2e",
+  "bill": "dcfae9ec-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB173",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0173_42109.pdf",
-  "_id": "d5466d64-6768-11f0-8268-1e2a98079f2e"
+  "_id": "dcff37d6-682e-11f0-88c7-dabfb9862d1a"
 }

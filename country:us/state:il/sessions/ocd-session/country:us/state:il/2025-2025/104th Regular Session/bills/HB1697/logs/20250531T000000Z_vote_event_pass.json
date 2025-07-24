@@ -1,12 +1,12 @@
 {
   "identifier": "",
-  "motion_text": "Concurrence, Amendment 4",
+  "motion_text": "Concurrence",
   "motion_classification": [],
   "start_date": "2025-05-31",
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "05654af0-676a-11f0-8268-1e2a98079f2e",
+  "bill": "01828ab8-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB1697",
   "votes": [
@@ -741,11 +741,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB1697sam004_05312025_014002C.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB1697sam001_05312025_014000C.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB1697sam004_05312025_014002C.pdf",
-  "_id": "05cc916a-676a-11f0-8268-1e2a98079f2e"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB1697sam001_05312025_014000C.pdf",
+  "_id": "0191be70-682f-11f0-88c7-dabfb9862d1a"
 }

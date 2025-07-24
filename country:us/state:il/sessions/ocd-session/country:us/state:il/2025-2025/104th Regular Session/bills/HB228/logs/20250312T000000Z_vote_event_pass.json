@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "e0983468-6768-11f0-8268-1e2a98079f2e",
+  "bill": "de57a0dc-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB228",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0228_42109.pdf",
-  "_id": "e0b9aeea-6768-11f0-8268-1e2a98079f2e"
+  "_id": "de5c0a8c-682e-11f0-88c7-dabfb9862d1a"
 }

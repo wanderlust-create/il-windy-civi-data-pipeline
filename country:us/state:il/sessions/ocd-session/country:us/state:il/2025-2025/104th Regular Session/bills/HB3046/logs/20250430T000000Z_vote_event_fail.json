@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "226d67d0-676b-11f0-8268-1e2a98079f2e",
+  "bill": "2694497c-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB3046",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3046_43731.pdf",
-  "_id": "229afee8-676b-11f0-8268-1e2a98079f2e"
+  "_id": "269e3374-682f-11f0-88c7-dabfb9862d1a"
 }

@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "b30739d0-6769-11f0-8268-1e2a98079f2e",
+  "bill": "f7fad928-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB1287",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1287_42431.pdf",
-  "_id": "b343cb66-6769-11f0-8268-1e2a98079f2e"
+  "_id": "f808cf06-682e-11f0-88c7-dabfb9862d1a"
 }

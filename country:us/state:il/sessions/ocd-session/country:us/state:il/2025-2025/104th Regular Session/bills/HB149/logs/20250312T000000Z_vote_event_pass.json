@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "d04e818e-6768-11f0-8268-1e2a98079f2e",
+  "bill": "dc65fdbe-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB149",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0149_42109.pdf",
-  "_id": "d074808c-6768-11f0-8268-1e2a98079f2e"
+  "_id": "dc6a3b18-682e-11f0-88c7-dabfb9862d1a"
 }

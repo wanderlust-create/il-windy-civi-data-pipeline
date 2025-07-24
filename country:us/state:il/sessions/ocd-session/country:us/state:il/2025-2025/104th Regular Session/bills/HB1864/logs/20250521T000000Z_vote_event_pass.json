@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "2901e086-676a-11f0-8268-1e2a98079f2e",
+  "bill": "06045f76-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB1864",
   "votes": [
@@ -393,5 +393,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/10400HB1864_05212025_024000T.pdf",
-  "_id": "29305736-676a-11f0-8268-1e2a98079f2e"
+  "_id": "060ced8a-682f-11f0-88c7-dabfb9862d1a"
 }

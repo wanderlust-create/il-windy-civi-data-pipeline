@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "6443210e-676b-11f0-8268-1e2a98079f2e",
+  "bill": "2f5b0500-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB3360",
   "votes": [
@@ -393,5 +393,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/10400HB3360_05222025_054077.pdf",
-  "_id": "646a1494-676b-11f0-8268-1e2a98079f2e"
+  "_id": "2f60ee2a-682f-11f0-88c7-dabfb9862d1a"
 }

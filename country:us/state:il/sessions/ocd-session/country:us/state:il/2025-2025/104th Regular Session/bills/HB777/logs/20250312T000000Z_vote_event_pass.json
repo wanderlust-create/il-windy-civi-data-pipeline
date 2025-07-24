@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "4ddc0e00-6769-11f0-8268-1e2a98079f2e",
+  "bill": "ebf79e9a-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB777",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0777_42109.pdf",
-  "_id": "4dfe488a-6769-11f0-8268-1e2a98079f2e"
+  "_id": "ebfbe1c6-682e-11f0-88c7-dabfb9862d1a"
 }

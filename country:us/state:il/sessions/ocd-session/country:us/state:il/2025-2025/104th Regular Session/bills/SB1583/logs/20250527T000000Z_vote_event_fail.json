@@ -1,12 +1,12 @@
 {
   "identifier": "",
-  "motion_text": "Education",
+  "motion_text": "Education, Amendment 2",
   "motion_classification": [],
   "start_date": "2025-05-27",
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "98950844-676d-11f0-8268-1e2a98079f2e",
+  "bill": "7446958a-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "SB1583",
   "votes": [],
@@ -38,11 +38,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1583HCA1_44529.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1583HFA2_44530.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1583HCA1_44529.pdf",
-  "_id": "98d3234a-676d-11f0-8268-1e2a98079f2e"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1583HFA2_44530.pdf",
+  "_id": "7457fe92-682f-11f0-88c7-dabfb9862d1a"
 }

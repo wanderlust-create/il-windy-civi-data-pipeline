@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "9ee82f3e-676b-11f0-8268-1e2a98079f2e",
+  "bill": "3733e3f0-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB3637",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3637_44239.pdf",
-  "_id": "9f5a0cd0-676b-11f0-8268-1e2a98079f2e"
+  "_id": "37437dd8-682f-11f0-88c7-dabfb9862d1a"
 }

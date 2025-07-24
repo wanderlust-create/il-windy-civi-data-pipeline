@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "56880e22-676a-11f0-8268-1e2a98079f2e",
+  "bill": "0bba6014-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB2088",
   "votes": [
@@ -135,5 +135,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2088HFA1_43234.pdf",
-  "_id": "56abbf5c-676a-11f0-8268-1e2a98079f2e"
+  "_id": "0bbec7da-682f-11f0-88c7-dabfb9862d1a"
 }

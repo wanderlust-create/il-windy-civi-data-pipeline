@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "1ba3f380-6769-11f0-8268-1e2a98079f2e",
+  "bill": "e599e724-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB522",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0522_42109.pdf",
-  "_id": "1bc535f4-6769-11f0-8268-1e2a98079f2e"
+  "_id": "e59e3cf2-682e-11f0-88c7-dabfb9862d1a"
 }

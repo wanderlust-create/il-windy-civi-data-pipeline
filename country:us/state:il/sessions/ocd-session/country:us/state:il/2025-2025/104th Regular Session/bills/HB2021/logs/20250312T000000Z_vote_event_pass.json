@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "4927e176-676a-11f0-8268-1e2a98079f2e",
+  "bill": "0a1592ce-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB2021",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2021_42108.pdf",
-  "_id": "4947f182-676a-11f0-8268-1e2a98079f2e"
+  "_id": "0a19edba-682f-11f0-88c7-dabfb9862d1a"
 }

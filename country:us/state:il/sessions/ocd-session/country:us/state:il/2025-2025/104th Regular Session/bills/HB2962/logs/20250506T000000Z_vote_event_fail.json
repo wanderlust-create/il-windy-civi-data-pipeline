@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "0f95df84-676b-11f0-8268-1e2a98079f2e",
+  "bill": "23b879e4-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB2962",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB2962_43915.pdf",
-  "_id": "0fc91872-676b-11f0-8268-1e2a98079f2e"
+  "_id": "23c4a46c-682f-11f0-88c7-dabfb9862d1a"
 }

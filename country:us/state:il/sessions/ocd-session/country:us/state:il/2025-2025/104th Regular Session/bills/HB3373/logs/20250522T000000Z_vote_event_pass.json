@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "675ad562-676b-11f0-8268-1e2a98079f2e",
+  "bill": "2fd23dc8-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB3373",
   "votes": [
@@ -393,5 +393,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/10400HB3373_05222025_054078.pdf",
-  "_id": "67814d8c-676b-11f0-8268-1e2a98079f2e"
+  "_id": "2fd7d8dc-682f-11f0-88c7-dabfb9862d1a"
 }

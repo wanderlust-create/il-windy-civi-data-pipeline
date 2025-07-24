@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "2ceb18c8-676c-11f0-8268-1e2a98079f2e",
+  "bill": "46c06064-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HR283",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HR0283_44223.pdf",
-  "_id": "2d0cfd1c-676c-11f0-8268-1e2a98079f2e"
+  "_id": "46c51eba-682f-11f0-88c7-dabfb9862d1a"
 }

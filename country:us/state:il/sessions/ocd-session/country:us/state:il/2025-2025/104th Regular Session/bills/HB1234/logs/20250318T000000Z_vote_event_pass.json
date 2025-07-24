@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "a8b4761e-6769-11f0-8268-1e2a98079f2e",
+  "bill": "f6ca3fda-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB1234",
   "votes": [
@@ -147,5 +147,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1234_42328.pdf",
-  "_id": "a8e39836-6769-11f0-8268-1e2a98079f2e"
+  "_id": "f6d28c08-682e-11f0-88c7-dabfb9862d1a"
 }

@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "20ee7f54-6769-11f0-8268-1e2a98079f2e",
+  "bill": "e647f58a-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB550",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0550_42109.pdf",
-  "_id": "210d6626-6769-11f0-8268-1e2a98079f2e"
+  "_id": "e64c49fa-682e-11f0-88c7-dabfb9862d1a"
 }

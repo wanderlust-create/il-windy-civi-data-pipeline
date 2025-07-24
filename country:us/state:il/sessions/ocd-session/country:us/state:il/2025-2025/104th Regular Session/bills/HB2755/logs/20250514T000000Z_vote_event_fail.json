@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "e46fa074-676a-11f0-8268-1e2a98079f2e",
+  "bill": "1e2abcee-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB2755",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB2755SCA1_44287.pdf",
-  "_id": "e501060e-676a-11f0-8268-1e2a98079f2e"
+  "_id": "1e403f10-682f-11f0-88c7-dabfb9862d1a"
 }

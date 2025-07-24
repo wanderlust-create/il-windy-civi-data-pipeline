@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "9342be98-676a-11f0-8268-1e2a98079f2e",
+  "bill": "13cca1a4-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB2380",
   "votes": [
@@ -219,5 +219,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2380HFA2_43326.pdf",
-  "_id": "936fa912-676a-11f0-8268-1e2a98079f2e"
+  "_id": "13d53486-682f-11f0-88c7-dabfb9862d1a"
 }

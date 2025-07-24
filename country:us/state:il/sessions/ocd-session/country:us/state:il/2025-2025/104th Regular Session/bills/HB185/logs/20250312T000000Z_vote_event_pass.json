@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "d77fc09e-6768-11f0-8268-1e2a98079f2e",
+  "bill": "dd461b92-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB185",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0185_42109.pdf",
-  "_id": "d7a3aa0e-6768-11f0-8268-1e2a98079f2e"
+  "_id": "dd4a67e2-682e-11f0-88c7-dabfb9862d1a"
 }

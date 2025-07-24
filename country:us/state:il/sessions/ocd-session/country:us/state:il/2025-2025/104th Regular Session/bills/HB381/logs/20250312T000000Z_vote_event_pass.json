@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "ff1222a0-6768-11f0-8268-1e2a98079f2e",
+  "bill": "e21be58e-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB381",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0381_42109.pdf",
-  "_id": "ff34e182-6768-11f0-8268-1e2a98079f2e"
+  "_id": "e22051f0-682e-11f0-88c7-dabfb9862d1a"
 }

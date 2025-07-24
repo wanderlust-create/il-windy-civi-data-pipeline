@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "37303ca8-676e-11f0-8268-1e2a98079f2e",
+  "bill": "884b3df6-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "SB2339",
   "votes": [
@@ -14,6 +14,12 @@
       "option": "yes",
       "voter_name": "Belt, Christopher",
       "voter_id": "~{\"name\": \"Belt, Christopher\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Chesney, Andrew S",
+      "voter_id": "~{\"name\": \"Chesney, Andrew S\"}",
       "note": ""
     },
     {
@@ -78,6 +84,12 @@
     },
     {
       "option": "yes",
+      "voter_name": "Tracy, Jil",
+      "voter_id": "~{\"name\": \"Tracy, Jil\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
       "voter_name": "Simmons, Mike",
       "voter_id": "~{\"name\": \"Simmons, Mike\"}",
       "note": ""
@@ -95,19 +107,7 @@
       "note": ""
     },
     {
-      "option": "no",
-      "voter_name": "Chesney, Andrew S",
-      "voter_id": "~{\"name\": \"Chesney, Andrew S\"}",
-      "note": ""
-    },
-    {
-      "option": "no",
-      "voter_name": "Tracy, Jil",
-      "voter_id": "~{\"name\": \"Tracy, Jil\"}",
-      "note": ""
-    },
-    {
-      "option": "no",
+      "option": "yes",
       "voter_name": "Wilcox, Craig",
       "voter_id": "~{\"name\": \"Wilcox, Craig\"}",
       "note": ""
@@ -128,11 +128,11 @@
   "counts": [
     {
       "option": "yes",
-      "value": 14
+      "value": 17
     },
     {
       "option": "no",
-      "value": 3
+      "value": 0
     },
     {
       "option": "other",
@@ -153,11 +153,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB2339_42389.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB2339SCA1_42378.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB2339_42389.pdf",
-  "_id": "3774e97a-676e-11f0-8268-1e2a98079f2e"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB2339SCA1_42378.pdf",
+  "_id": "886101c2-682f-11f0-88c7-dabfb9862d1a"
 }

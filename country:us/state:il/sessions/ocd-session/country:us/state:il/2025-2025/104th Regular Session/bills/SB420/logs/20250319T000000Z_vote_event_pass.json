@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "abd6fff8-676c-11f0-8268-1e2a98079f2e",
+  "bill": "565fd388-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "SB420",
   "votes": [
@@ -123,5 +123,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB0420_42687.pdf",
-  "_id": "abf8d0e2-676c-11f0-8268-1e2a98079f2e"
+  "_id": "56642ee2-682f-11f0-88c7-dabfb9862d1a"
 }

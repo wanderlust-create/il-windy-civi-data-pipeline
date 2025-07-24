@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "3972a50e-676a-11f0-8268-1e2a98079f2e",
+  "bill": "081e939e-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB1940",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1940_42108.pdf",
-  "_id": "3994c274-676a-11f0-8268-1e2a98079f2e"
+  "_id": "0822ea20-682f-11f0-88c7-dabfb9862d1a"
 }

@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "db4c36f8-6768-11f0-8268-1e2a98079f2e",
+  "bill": "ddbdc9d0-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB204",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0204_42109.pdf",
-  "_id": "db6d723c-6768-11f0-8268-1e2a98079f2e"
+  "_id": "ddc21490-682e-11f0-88c7-dabfb9862d1a"
 }

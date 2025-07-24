@@ -1,12 +1,12 @@
 {
   "identifier": "",
-  "motion_text": "Motion",
+  "motion_text": "Third Reading",
   "motion_classification": [],
   "start_date": "2025-04-10",
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "1803a7dc-676b-11f0-8268-1e2a98079f2e",
+  "bill": "253d3a02-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB2997",
   "votes": [
@@ -14,12 +14,6 @@
       "option": "yes",
       "voter_name": "Mussman",
       "voter_id": "~{\"name\": \"Mussman\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
-      "voter_name": "Guerrero-Cuellar",
-      "voter_id": "~{\"name\": \"Guerrero-Cuellar\"}",
       "note": ""
     },
     {
@@ -50,6 +44,12 @@
       "option": "yes",
       "voter_name": "Olickal",
       "voter_id": "~{\"name\": \"Olickal\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Benton",
+      "voter_id": "~{\"name\": \"Benton\"}",
       "note": ""
     },
     {
@@ -258,12 +258,6 @@
     },
     {
       "option": "yes",
-      "voter_name": "DeLuca",
-      "voter_id": "~{\"name\": \"DeLuca\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
       "voter_name": "Syed",
       "voter_id": "~{\"name\": \"Syed\"}",
       "note": ""
@@ -308,12 +302,6 @@
       "option": "yes",
       "voter_name": "Du Buclet",
       "voter_id": "~{\"name\": \"Du Buclet\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
-      "voter_name": "Mason",
-      "voter_id": "~{\"name\": \"Mason\"}",
       "note": ""
     },
     {
@@ -414,12 +402,6 @@
     },
     {
       "option": "yes",
-      "voter_name": "Moylan",
-      "voter_id": "~{\"name\": \"Moylan\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
       "voter_name": "Grasse",
       "voter_id": "~{\"name\": \"Grasse\"}",
       "note": ""
@@ -504,12 +486,6 @@
     },
     {
       "option": "no",
-      "voter_name": "Sheehan",
-      "voter_id": "~{\"name\": \"Sheehan\"}",
-      "note": ""
-    },
-    {
-      "option": "no",
       "voter_name": "Davidsmeyer",
       "voter_id": "~{\"name\": \"Davidsmeyer\"}",
       "note": ""
@@ -552,12 +528,6 @@
     },
     {
       "option": "no",
-      "voter_name": "La Ha",
-      "voter_id": "~{\"name\": \"La Ha\"}",
-      "note": ""
-    },
-    {
-      "option": "no",
       "voter_name": "Swanson",
       "voter_id": "~{\"name\": \"Swanson\"}",
       "note": ""
@@ -590,12 +560,6 @@
       "option": "no",
       "voter_name": "Weaver",
       "voter_id": "~{\"name\": \"Weaver\"}",
-      "note": ""
-    },
-    {
-      "option": "no",
-      "voter_name": "McLaughlin",
-      "voter_id": "~{\"name\": \"McLaughlin\"}",
       "note": ""
     },
     {
@@ -690,8 +654,38 @@
     },
     {
       "option": "not voting",
-      "voter_name": "Benton",
-      "voter_id": "~{\"name\": \"Benton\"}",
+      "voter_name": "Guerrero-Cuellar",
+      "voter_id": "~{\"name\": \"Guerrero-Cuellar\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Sheehan",
+      "voter_id": "~{\"name\": \"Sheehan\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "La Ha",
+      "voter_id": "~{\"name\": \"La Ha\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "DeLuca",
+      "voter_id": "~{\"name\": \"DeLuca\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Mason",
+      "voter_id": "~{\"name\": \"Mason\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "McLaughlin",
+      "voter_id": "~{\"name\": \"McLaughlin\"}",
       "note": ""
     },
     {
@@ -711,16 +705,22 @@
       "voter_name": "Morris",
       "voter_id": "~{\"name\": \"Morris\"}",
       "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Moylan",
+      "voter_id": "~{\"name\": \"Moylan\"}",
+      "note": ""
     }
   ],
   "counts": [
     {
       "option": "yes",
-      "value": 70
+      "value": 67
     },
     {
       "option": "no",
-      "value": 38
+      "value": 35
     },
     {
       "option": "other",
@@ -736,16 +736,16 @@
     },
     {
       "option": "not voting",
-      "value": 4
+      "value": 10
     }
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB2997_04102025_116000M.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB2997_04102025_117000T.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB2997_04102025_116000M.pdf",
-  "_id": "183048dc-676b-11f0-8268-1e2a98079f2e"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB2997_04102025_117000T.pdf",
+  "_id": "25467888-682f-11f0-88c7-dabfb9862d1a"
 }

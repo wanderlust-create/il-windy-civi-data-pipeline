@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "18a2f6a2-676b-11f0-8268-1e2a98079f2e",
+  "bill": "25590d40-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB3000",
   "votes": [
@@ -123,5 +123,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3000_42058.pdf",
-  "_id": "18d584a0-676b-11f0-8268-1e2a98079f2e"
+  "_id": "2565a71c-682f-11f0-88c7-dabfb9862d1a"
 }

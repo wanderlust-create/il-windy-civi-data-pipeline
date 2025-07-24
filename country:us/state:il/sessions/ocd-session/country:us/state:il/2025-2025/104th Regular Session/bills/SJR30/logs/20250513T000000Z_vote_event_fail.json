@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "c1863448-676e-11f0-8268-1e2a98079f2e",
+  "bill": "966c57e4-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "SJR30",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SJR0030_44198.pdf",
-  "_id": "c1a99942-676e-11f0-8268-1e2a98079f2e"
+  "_id": "9670f600-682f-11f0-88c7-dabfb9862d1a"
 }

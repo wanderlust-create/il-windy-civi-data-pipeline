@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "ed04b788-676a-11f0-8268-1e2a98079f2e",
+  "bill": "1f661afe-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB2790",
   "votes": [
@@ -111,5 +111,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2790_42365.pdf",
-  "_id": "ed34f524-676a-11f0-8268-1e2a98079f2e"
+  "_id": "1f7012d4-682f-11f0-88c7-dabfb9862d1a"
 }

@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "881732d8-676a-11f0-8268-1e2a98079f2e",
+  "bill": "12350e1c-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB2333",
   "votes": [
@@ -99,5 +99,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2333_41904.pdf",
-  "_id": "88410626-676a-11f0-8268-1e2a98079f2e"
+  "_id": "123e6a48-682f-11f0-88c7-dabfb9862d1a"
 }

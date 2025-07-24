@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "4caf9bf0-6769-11f0-8268-1e2a98079f2e",
+  "bill": "ebd26364-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB771",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0771_42109.pdf",
-  "_id": "4cd1421e-6769-11f0-8268-1e2a98079f2e"
+  "_id": "ebd6b72a-682e-11f0-88c7-dabfb9862d1a"
 }

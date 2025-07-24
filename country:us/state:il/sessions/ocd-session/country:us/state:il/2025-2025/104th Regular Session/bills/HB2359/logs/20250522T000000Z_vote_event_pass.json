@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "8e76636a-676a-11f0-8268-1e2a98079f2e",
+  "bill": "132109de-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB2359",
   "votes": [
@@ -393,5 +393,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/10400HB2359_05222025_054031.pdf",
-  "_id": "8e9eaf46-676a-11f0-8268-1e2a98079f2e"
+  "_id": "13282fe8-682f-11f0-88c7-dabfb9862d1a"
 }

@@ -1,12 +1,12 @@
 {
   "identifier": "",
-  "motion_text": "Third Reading",
+  "motion_text": "Motion",
   "motion_classification": [],
   "start_date": "2025-04-10",
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "a95412e6-6769-11f0-8268-1e2a98079f2e",
+  "bill": "f6ddc564-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB1237",
   "votes": [
@@ -56,6 +56,12 @@
       "option": "yes",
       "voter_name": "Olickal",
       "voter_id": "~{\"name\": \"Olickal\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Benton",
+      "voter_id": "~{\"name\": \"Benton\"}",
       "note": ""
     },
     {
@@ -110,6 +116,12 @@
       "option": "yes",
       "voter_name": "Hernandez, Barbara",
       "voter_id": "~{\"name\": \"Hernandez, Barbara\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Ryan",
+      "voter_id": "~{\"name\": \"Ryan\"}",
       "note": ""
     },
     {
@@ -174,12 +186,6 @@
     },
     {
       "option": "yes",
-      "voter_name": "Crespo",
-      "voter_id": "~{\"name\": \"Crespo\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
       "voter_name": "Slaughter",
       "voter_id": "~{\"name\": \"Slaughter\"}",
       "note": ""
@@ -228,12 +234,6 @@
     },
     {
       "option": "yes",
-      "voter_name": "Kelly",
-      "voter_id": "~{\"name\": \"Kelly\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
       "voter_name": "Davis, Will",
       "voter_id": "~{\"name\": \"Davis, Will\"}",
       "note": ""
@@ -254,12 +254,6 @@
       "option": "yes",
       "voter_name": "LaPointe",
       "voter_id": "~{\"name\": \"LaPointe\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
-      "voter_name": "DeLuca",
-      "voter_id": "~{\"name\": \"DeLuca\"}",
       "note": ""
     },
     {
@@ -486,12 +480,6 @@
     },
     {
       "option": "no",
-      "voter_name": "Hoffman",
-      "voter_id": "~{\"name\": \"Hoffman\"}",
-      "note": ""
-    },
-    {
-      "option": "no",
       "voter_name": "Coffey",
       "voter_id": "~{\"name\": \"Coffey\"}",
       "note": ""
@@ -560,12 +548,6 @@
       "option": "no",
       "voter_name": "Deering",
       "voter_id": "~{\"name\": \"Deering\"}",
-      "note": ""
-    },
-    {
-      "option": "no",
-      "voter_name": "Stuart",
-      "voter_id": "~{\"name\": \"Stuart\"}",
       "note": ""
     },
     {
@@ -671,6 +653,12 @@
       "note": ""
     },
     {
+      "option": "other",
+      "voter_name": "Hoffman",
+      "voter_id": "~{\"name\": \"Hoffman\"}",
+      "note": ""
+    },
+    {
       "option": "excused",
       "voter_name": "Hauter",
       "voter_id": "~{\"name\": \"Hauter\"}",
@@ -690,14 +678,26 @@
     },
     {
       "option": "not voting",
-      "voter_name": "Benton",
-      "voter_id": "~{\"name\": \"Benton\"}",
+      "voter_name": "Crespo",
+      "voter_id": "~{\"name\": \"Crespo\"}",
       "note": ""
     },
     {
       "option": "not voting",
-      "voter_name": "Ryan",
-      "voter_id": "~{\"name\": \"Ryan\"}",
+      "voter_name": "Kelly",
+      "voter_id": "~{\"name\": \"Kelly\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Stuart",
+      "voter_id": "~{\"name\": \"Stuart\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "DeLuca",
+      "voter_id": "~{\"name\": \"DeLuca\"}",
       "note": ""
     },
     {
@@ -716,15 +716,15 @@
   "counts": [
     {
       "option": "yes",
-      "value": 71
+      "value": 70
     },
     {
       "option": "no",
-      "value": 40
+      "value": 38
     },
     {
       "option": "other",
-      "value": 0
+      "value": 1
     },
     {
       "option": "excused",
@@ -736,16 +736,16 @@
     },
     {
       "option": "not voting",
-      "value": 4
+      "value": 6
     }
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB1237_04102025_008000T.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB1237_04102025_007000M.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB1237_04102025_008000T.pdf",
-  "_id": "a9830434-6769-11f0-8268-1e2a98079f2e"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB1237_04102025_007000M.pdf",
+  "_id": "f6e78b62-682e-11f0-88c7-dabfb9862d1a"
 }

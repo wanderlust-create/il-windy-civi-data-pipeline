@@ -1,12 +1,12 @@
 {
   "identifier": "",
-  "motion_text": "Restorative Justice & Public Safety, Amendment 1",
+  "motion_text": "Restorative Justice & Public Safety, Amendment 2",
   "motion_classification": [],
   "start_date": "2025-04-08",
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "b5ef2b30-6769-11f0-8268-1e2a98079f2e",
+  "bill": "f84852e8-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB1302",
   "votes": [
@@ -105,11 +105,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1302HFA1_43232.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1302HFA2_43233.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1302HFA1_43232.pdf",
-  "_id": "b6515238-6769-11f0-8268-1e2a98079f2e"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1302HFA2_43233.pdf",
+  "_id": "f867c24a-682e-11f0-88c7-dabfb9862d1a"
 }

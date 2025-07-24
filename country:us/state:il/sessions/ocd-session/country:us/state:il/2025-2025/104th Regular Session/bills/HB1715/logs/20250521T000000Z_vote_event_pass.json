@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "09f2b788-676a-11f0-8268-1e2a98079f2e",
+  "bill": "023440c8-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB1715",
   "votes": [
@@ -393,5 +393,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/10400HB1715_05212025_021000T.pdf",
-  "_id": "0a1aeeec-676a-11f0-8268-1e2a98079f2e"
+  "_id": "02395aa4-682f-11f0-88c7-dabfb9862d1a"
 }

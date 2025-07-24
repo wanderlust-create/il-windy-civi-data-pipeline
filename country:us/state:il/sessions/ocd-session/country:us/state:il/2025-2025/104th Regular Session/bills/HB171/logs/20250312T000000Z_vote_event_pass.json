@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "d4b8105a-6768-11f0-8268-1e2a98079f2e",
+  "bill": "dcee9aa2-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB171",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0171_42109.pdf",
-  "_id": "d4d8e1e0-6768-11f0-8268-1e2a98079f2e"
+  "_id": "dcf2e026-682e-11f0-88c7-dabfb9862d1a"
 }

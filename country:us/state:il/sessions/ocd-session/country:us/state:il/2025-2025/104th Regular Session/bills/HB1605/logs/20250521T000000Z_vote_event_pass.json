@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "f38b4e4c-6769-11f0-8268-1e2a98079f2e",
+  "bill": "ff7b2b58-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB1605",
   "votes": [
@@ -393,5 +393,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/10400HB1605_05212025_018000T.pdf",
-  "_id": "f3b781f6-6769-11f0-8268-1e2a98079f2e"
+  "_id": "ff811c34-682e-11f0-88c7-dabfb9862d1a"
 }

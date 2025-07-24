@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "402cd54a-676a-11f0-8268-1e2a98079f2e",
+  "bill": "08f8b222-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB1975",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1975_42108.pdf",
-  "_id": "404e2ae2-676a-11f0-8268-1e2a98079f2e"
+  "_id": "08fd05fc-682f-11f0-88c7-dabfb9862d1a"
 }

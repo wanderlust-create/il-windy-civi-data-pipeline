@@ -1,12 +1,12 @@
 {
   "identifier": "",
-  "motion_text": "Labor & Commerce, Amendment 2",
+  "motion_text": "Labor & Commerce, Amendment 3",
   "motion_classification": [],
   "start_date": "2025-04-07",
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "15d9f930-676a-11f0-8268-1e2a98079f2e",
+  "bill": "039fed36-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB1778",
   "votes": [
@@ -213,11 +213,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1778HFA2_43227.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1778HFA3_43228.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1778HFA2_43227.pdf",
-  "_id": "15fd02cc-676a-11f0-8268-1e2a98079f2e"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1778HFA3_43228.pdf",
+  "_id": "03a6f5ea-682f-11f0-88c7-dabfb9862d1a"
 }

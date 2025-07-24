@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "ff79ec96-6768-11f0-8268-1e2a98079f2e",
+  "bill": "e2288b54-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB383",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0383_42109.pdf",
-  "_id": "ff9d12ac-6768-11f0-8268-1e2a98079f2e"
+  "_id": "e22d0e18-682e-11f0-88c7-dabfb9862d1a"
 }

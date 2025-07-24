@@ -1,12 +1,12 @@
 {
   "identifier": "",
-  "motion_text": "State Government",
+  "motion_text": "State Government, Amendment 3",
   "motion_classification": [],
   "start_date": "2025-05-30",
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "1aa3895a-676e-11f0-8268-1e2a98079f2e",
+  "bill": "84ce1c48-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "SB2201",
   "votes": [],
@@ -38,11 +38,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB2201HCA1_44764.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB2201HFA3_44765.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB2201HCA1_44764.pdf",
-  "_id": "1b13afa0-676e-11f0-8268-1e2a98079f2e"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB2201HFA3_44765.pdf",
+  "_id": "84e26b4e-682f-11f0-88c7-dabfb9862d1a"
 }

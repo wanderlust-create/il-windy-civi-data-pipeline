@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "0e0519c4-676a-11f0-8268-1e2a98079f2e",
+  "bill": "029c6586-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB1736",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1736_41970.pdf",
-  "_id": "0e2b2024-676a-11f0-8268-1e2a98079f2e"
+  "_id": "02a22660-682f-11f0-88c7-dabfb9862d1a"
 }

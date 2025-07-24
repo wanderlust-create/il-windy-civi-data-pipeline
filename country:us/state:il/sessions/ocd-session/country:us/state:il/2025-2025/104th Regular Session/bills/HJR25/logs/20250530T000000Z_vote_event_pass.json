@@ -8,7 +8,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "4c9a4022-676c-11f0-8268-1e2a98079f2e",
+  "bill": "49c40f68-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HJR25",
   "votes": [
@@ -395,5 +395,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/10400HJ0025_05302025_081000D.pdf",
-  "_id": "4cc19a64-676c-11f0-8268-1e2a98079f2e"
+  "_id": "49c9b526-682f-11f0-88c7-dabfb9862d1a"
 }

@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "8bc33e14-6769-11f0-8268-1e2a98079f2e",
+  "bill": "f3a6744a-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB1085",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB1085SCA1_44775.pdf",
-  "_id": "8c01f5fa-6769-11f0-8268-1e2a98079f2e"
+  "_id": "f3b424aa-682e-11f0-88c7-dabfb9862d1a"
 }

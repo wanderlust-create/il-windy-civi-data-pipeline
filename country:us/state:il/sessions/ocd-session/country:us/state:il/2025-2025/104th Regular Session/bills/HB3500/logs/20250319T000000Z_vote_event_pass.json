@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "825efda2-676b-11f0-8268-1e2a98079f2e",
+  "bill": "339471ce-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB3500",
   "votes": [
@@ -99,5 +99,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3500_42620.pdf",
-  "_id": "82b48be6-676b-11f0-8268-1e2a98079f2e"
+  "_id": "33ac21d4-682f-11f0-88c7-dabfb9862d1a"
 }

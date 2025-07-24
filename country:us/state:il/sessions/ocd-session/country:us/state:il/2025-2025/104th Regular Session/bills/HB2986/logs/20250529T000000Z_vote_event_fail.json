@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "15686a9e-676b-11f0-8268-1e2a98079f2e",
+  "bill": "24c5eaf6-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB2986",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2986SCA2_44660.pdf",
-  "_id": "15ae569e-676b-11f0-8268-1e2a98079f2e"
+  "_id": "24dc28d4-682f-11f0-88c7-dabfb9862d1a"
 }

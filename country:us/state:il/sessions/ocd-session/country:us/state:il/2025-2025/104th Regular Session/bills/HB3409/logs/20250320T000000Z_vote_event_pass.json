@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "6ef0a0fe-676b-11f0-8268-1e2a98079f2e",
+  "bill": "30f3c488-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB3409",
   "votes": [
@@ -99,5 +99,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3409_42774.pdf",
-  "_id": "6f1b5e98-676b-11f0-8268-1e2a98079f2e"
+  "_id": "30fb6ea4-682f-11f0-88c7-dabfb9862d1a"
 }

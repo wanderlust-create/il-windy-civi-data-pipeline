@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "5b2de29a-6769-11f0-8268-1e2a98079f2e",
+  "bill": "ed9be904-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB845",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0845_42109.pdf",
-  "_id": "5b4ee15c-6769-11f0-8268-1e2a98079f2e"
+  "_id": "eda0be84-682e-11f0-88c7-dabfb9862d1a"
 }

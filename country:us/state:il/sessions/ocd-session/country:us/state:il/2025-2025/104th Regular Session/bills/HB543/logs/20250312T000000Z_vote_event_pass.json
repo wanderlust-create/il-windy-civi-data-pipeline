@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "1fa2b0e8-6769-11f0-8268-1e2a98079f2e",
+  "bill": "e61c70cc-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB543",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0543_42109.pdf",
-  "_id": "1fc2f6e6-6769-11f0-8268-1e2a98079f2e"
+  "_id": "e620c2c6-682e-11f0-88c7-dabfb9862d1a"
 }

@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "3d69b6d8-676b-11f0-8268-1e2a98079f2e",
+  "bill": "2a4ea7f6-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB3178",
   "votes": [
@@ -165,5 +165,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3178_42485.pdf",
-  "_id": "3d9b628c-676b-11f0-8268-1e2a98079f2e"
+  "_id": "2a5b00be-682f-11f0-88c7-dabfb9862d1a"
 }

@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "c4c624de-676d-11f0-8268-1e2a98079f2e",
+  "bill": "79f4a1ca-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "SB1793",
   "votes": [
@@ -14,12 +14,6 @@
       "option": "yes",
       "voter_name": "Castro, Cristina",
       "voter_id": "~{\"name\": \"Castro, Cristina\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
-      "voter_name": "Anderson, Neil",
-      "voter_id": "~{\"name\": \"Anderson, Neil\"}",
       "note": ""
     },
     {
@@ -87,16 +81,22 @@
       "voter_name": "Tracy, Jil",
       "voter_id": "~{\"name\": \"Tracy, Jil\"}",
       "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Anderson, Neil",
+      "voter_id": "~{\"name\": \"Anderson, Neil\"}",
+      "note": ""
     }
   ],
   "counts": [
     {
       "option": "yes",
-      "value": 13
+      "value": 12
     },
     {
       "option": "no",
-      "value": 0
+      "value": 1
     },
     {
       "option": "other",
@@ -117,11 +117,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1793SCA2_43086.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1793_43087.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1793SCA2_43086.pdf",
-  "_id": "c50339be-676d-11f0-8268-1e2a98079f2e"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1793_43087.pdf",
+  "_id": "7a01cc24-682f-11f0-88c7-dabfb9862d1a"
 }

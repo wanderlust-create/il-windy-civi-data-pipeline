@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "d82b0bc8-676a-11f0-8268-1e2a98079f2e",
+  "bill": "1cac9b6c-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB2698",
   "votes": [
@@ -171,5 +171,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2698_42450.pdf",
-  "_id": "d84f5ad2-676a-11f0-8268-1e2a98079f2e"
+  "_id": "1cb190a4-682f-11f0-88c7-dabfb9862d1a"
 }

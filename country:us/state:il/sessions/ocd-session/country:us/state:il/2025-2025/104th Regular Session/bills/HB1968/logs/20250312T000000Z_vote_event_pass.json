@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "3ed64a00-676a-11f0-8268-1e2a98079f2e",
+  "bill": "08cd4e66-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB1968",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1968_42108.pdf",
-  "_id": "3ef6d414-676a-11f0-8268-1e2a98079f2e"
+  "_id": "08d18d28-682f-11f0-88c7-dabfb9862d1a"
 }

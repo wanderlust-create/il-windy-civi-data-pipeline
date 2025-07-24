@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "8b3c40f8-6769-11f0-8268-1e2a98079f2e",
+  "bill": "f38ed1be-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB1083",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB1083_44147.pdf",
-  "_id": "8b70e588-6769-11f0-8268-1e2a98079f2e"
+  "_id": "f39b833c-682e-11f0-88c7-dabfb9862d1a"
 }

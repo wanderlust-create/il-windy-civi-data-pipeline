@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "e6018a76-6768-11f0-8268-1e2a98079f2e",
+  "bill": "df05fe0c-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB255",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0255_42109.pdf",
-  "_id": "e625b07c-6768-11f0-8268-1e2a98079f2e"
+  "_id": "df0a450c-682e-11f0-88c7-dabfb9862d1a"
 }

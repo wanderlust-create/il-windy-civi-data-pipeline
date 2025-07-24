@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "45824a52-676a-11f0-8268-1e2a98079f2e",
+  "bill": "09a04280-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB2002",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2002_42108.pdf",
-  "_id": "45a33852-676a-11f0-8268-1e2a98079f2e"
+  "_id": "09a49114-682f-11f0-88c7-dabfb9862d1a"
 }

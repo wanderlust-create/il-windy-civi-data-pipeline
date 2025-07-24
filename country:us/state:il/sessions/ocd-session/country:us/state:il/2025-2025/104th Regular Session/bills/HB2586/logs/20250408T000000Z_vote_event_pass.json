@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "c14b03c2-676a-11f0-8268-1e2a98079f2e",
+  "bill": "19d95984-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB2586",
   "votes": [
@@ -135,5 +135,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2586HFA3_43321.pdf",
-  "_id": "c189726a-676a-11f0-8268-1e2a98079f2e"
+  "_id": "19e70f20-682f-11f0-88c7-dabfb9862d1a"
 }

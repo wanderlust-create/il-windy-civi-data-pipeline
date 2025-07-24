@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "8cff952e-676a-11f0-8268-1e2a98079f2e",
+  "bill": "12fc1ac0-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB2352",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2352HFA2_43382.pdf",
-  "_id": "8d29716e-676a-11f0-8268-1e2a98079f2e"
+  "_id": "13015602-682f-11f0-88c7-dabfb9862d1a"
 }

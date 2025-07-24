@@ -1,21 +1,15 @@
 {
   "identifier": "",
-  "motion_text": "Procurement",
+  "motion_text": "Executive",
   "motion_classification": [],
   "start_date": "2025-04-03",
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "cbd92c8a-676d-11f0-8268-1e2a98079f2e",
+  "bill": "7ae537de-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "SB1827",
   "votes": [
-    {
-      "option": "yes",
-      "voter_name": "Harris III, Napoleon",
-      "voter_id": "~{\"name\": \"Harris III, Napoleon\"}",
-      "note": ""
-    },
     {
       "option": "yes",
       "voter_name": "Castro, Cristina",
@@ -24,15 +18,81 @@
     },
     {
       "option": "yes",
+      "voter_name": "Anderson, Neil",
+      "voter_id": "~{\"name\": \"Anderson, Neil\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Curran, John F",
+      "voter_id": "~{\"name\": \"Curran, John F\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Cunningham, Bill",
+      "voter_id": "~{\"name\": \"Cunningham, Bill\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Harris III, Napoleon",
+      "voter_id": "~{\"name\": \"Harris III, Napoleon\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Harmon, Don",
+      "voter_id": "~{\"name\": \"Harmon, Don\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Koehler, David",
+      "voter_id": "~{\"name\": \"Koehler, David\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Holmes, Linda",
+      "voter_id": "~{\"name\": \"Holmes, Linda\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Murphy, Laura M",
+      "voter_id": "~{\"name\": \"Murphy, Laura M\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Sims Jr., Elgie R",
+      "voter_id": "~{\"name\": \"Sims Jr., Elgie R\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
       "voter_name": "Rezin, Sue",
       "voter_id": "~{\"name\": \"Rezin, Sue\"}",
+      "note": ""
+    },
+    {
+      "option": "yes",
+      "voter_name": "Tracy, Jil",
+      "voter_id": "~{\"name\": \"Tracy, Jil\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Lightford, Kimberly A",
+      "voter_id": "~{\"name\": \"Lightford, Kimberly A\"}",
       "note": ""
     }
   ],
   "counts": [
     {
       "option": "yes",
-      "value": 3
+      "value": 12
     },
     {
       "option": "no",
@@ -52,16 +112,16 @@
     },
     {
       "option": "not voting",
-      "value": 0
+      "value": 1
     }
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1827_43069.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1827_43094.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1827_43069.pdf",
-  "_id": "cc257428-676d-11f0-8268-1e2a98079f2e"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1827_43094.pdf",
+  "_id": "7af91b8c-682f-11f0-88c7-dabfb9862d1a"
 }

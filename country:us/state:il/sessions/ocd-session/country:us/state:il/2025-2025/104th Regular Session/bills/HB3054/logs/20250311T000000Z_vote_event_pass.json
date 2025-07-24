@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "2441ba5c-676b-11f0-8268-1e2a98079f2e",
+  "bill": "26e72de0-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB3054",
   "votes": [
@@ -60,12 +60,6 @@
     },
     {
       "option": "yes",
-      "voter_name": "Hernandez, Barbara",
-      "voter_id": "~{\"name\": \"Hernandez, Barbara\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
       "voter_name": "Mason, Joyce",
       "voter_id": "~{\"name\": \"Mason, Joyce\"}",
       "note": ""
@@ -98,12 +92,6 @@
       "option": "yes",
       "voter_name": "Rashid, Abdelnasser",
       "voter_id": "~{\"name\": \"Rashid, Abdelnasser\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
-      "voter_name": "Walsh Jr., Lawrence \"Larry\"",
-      "voter_id": "~{\"name\": \"Walsh Jr., Lawrence \\\"Larry\\\"\"}",
       "note": ""
     },
     {
@@ -156,20 +144,8 @@
     },
     {
       "option": "no",
-      "voter_name": "Miller, Chris",
-      "voter_id": "~{\"name\": \"Miller, Chris\"}",
-      "note": ""
-    },
-    {
-      "option": "no",
       "voter_name": "Meier, Charles",
       "voter_id": "~{\"name\": \"Meier, Charles\"}",
-      "note": ""
-    },
-    {
-      "option": "no",
-      "voter_name": "Niemerg, Adam M",
-      "voter_id": "~{\"name\": \"Niemerg, Adam M\"}",
       "note": ""
     },
     {
@@ -183,16 +159,40 @@
       "voter_name": "Wilhour, Blaine",
       "voter_id": "~{\"name\": \"Wilhour, Blaine\"}",
       "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Hernandez, Barbara",
+      "voter_id": "~{\"name\": \"Hernandez, Barbara\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Miller, Chris",
+      "voter_id": "~{\"name\": \"Miller, Chris\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Niemerg, Adam M",
+      "voter_id": "~{\"name\": \"Niemerg, Adam M\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
+      "voter_name": "Walsh Jr., Lawrence \"Larry\"",
+      "voter_id": "~{\"name\": \"Walsh Jr., Lawrence \\\"Larry\\\"\"}",
+      "note": ""
     }
   ],
   "counts": [
     {
       "option": "yes",
-      "value": 19
+      "value": 17
     },
     {
       "option": "no",
-      "value": 10
+      "value": 8
     },
     {
       "option": "other",
@@ -208,16 +208,16 @@
     },
     {
       "option": "not voting",
-      "value": 0
+      "value": 4
     }
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3054_42031.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3054_42030.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3054_42031.pdf",
-  "_id": "2468cbb0-676b-11f0-8268-1e2a98079f2e"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3054_42030.pdf",
+  "_id": "26ec99d8-682f-11f0-88c7-dabfb9862d1a"
 }

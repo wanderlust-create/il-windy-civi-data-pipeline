@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "a58fe6fc-676a-11f0-8268-1e2a98079f2e",
+  "bill": "1651b1d0-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB2462",
   "votes": [
@@ -393,5 +393,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/10400HB2462_05222025_054040.pdf",
-  "_id": "a5baacde-676a-11f0-8268-1e2a98079f2e"
+  "_id": "165831c2-682f-11f0-88c7-dabfb9862d1a"
 }

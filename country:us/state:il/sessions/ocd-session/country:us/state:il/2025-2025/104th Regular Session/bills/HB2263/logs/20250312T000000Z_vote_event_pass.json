@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "79f9ee0c-676a-11f0-8268-1e2a98079f2e",
+  "bill": "1065bcee-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB2263",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2263_42108.pdf",
-  "_id": "7a1b2cac-676a-11f0-8268-1e2a98079f2e"
+  "_id": "106ad0bc-682f-11f0-88c7-dabfb9862d1a"
 }

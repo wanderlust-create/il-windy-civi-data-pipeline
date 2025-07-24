@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "62488df6-676d-11f0-8268-1e2a98079f2e",
+  "bill": "6d552bc4-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "SB1322",
   "votes": [
@@ -129,5 +129,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1322SCA2_42458.pdf",
-  "_id": "62710682-676d-11f0-8268-1e2a98079f2e"
+  "_id": "6d5c651a-682f-11f0-88c7-dabfb9862d1a"
 }

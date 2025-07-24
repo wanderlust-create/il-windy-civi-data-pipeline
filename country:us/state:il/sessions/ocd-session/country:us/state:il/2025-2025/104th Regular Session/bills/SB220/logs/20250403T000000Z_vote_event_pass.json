@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "83299336-676c-11f0-8268-1e2a98079f2e",
+  "bill": "51239620-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "SB220",
   "votes": [
@@ -393,5 +393,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/10400SB0220_04032025_009000T.pdf",
-  "_id": "8356ee9e-676c-11f0-8268-1e2a98079f2e"
+  "_id": "512bb666-682f-11f0-88c7-dabfb9862d1a"
 }

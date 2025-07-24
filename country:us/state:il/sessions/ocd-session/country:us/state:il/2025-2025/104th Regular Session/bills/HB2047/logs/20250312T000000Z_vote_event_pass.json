@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "4e3f465e-676a-11f0-8268-1e2a98079f2e",
+  "bill": "0ab76b62-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB2047",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2047_42108.pdf",
-  "_id": "4e6872f4-676a-11f0-8268-1e2a98079f2e"
+  "_id": "0abbc8ce-682f-11f0-88c7-dabfb9862d1a"
 }

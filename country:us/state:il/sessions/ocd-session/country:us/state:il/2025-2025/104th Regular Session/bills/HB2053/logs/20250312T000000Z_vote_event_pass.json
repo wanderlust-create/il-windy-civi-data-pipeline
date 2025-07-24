@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "4f75fcd4-676a-11f0-8268-1e2a98079f2e",
+  "bill": "0adcfac6-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB2053",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2053_42108.pdf",
-  "_id": "4f9766e4-676a-11f0-8268-1e2a98079f2e"
+  "_id": "0ae1486a-682f-11f0-88c7-dabfb9862d1a"
 }

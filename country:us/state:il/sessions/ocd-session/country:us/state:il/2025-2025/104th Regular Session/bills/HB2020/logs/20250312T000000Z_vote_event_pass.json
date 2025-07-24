@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "48f627bc-676a-11f0-8268-1e2a98079f2e",
+  "bill": "0a0f7506-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB2020",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2020_42108.pdf",
-  "_id": "49166b6c-676a-11f0-8268-1e2a98079f2e"
+  "_id": "0a13b526-682f-11f0-88c7-dabfb9862d1a"
 }

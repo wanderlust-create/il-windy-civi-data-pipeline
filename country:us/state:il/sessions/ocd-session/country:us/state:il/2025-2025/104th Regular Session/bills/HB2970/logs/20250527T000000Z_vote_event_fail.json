@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "1196d84c-676b-11f0-8268-1e2a98079f2e",
+  "bill": "2410fc18-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB2970",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB2970_44547.pdf",
-  "_id": "11c84616-676b-11f0-8268-1e2a98079f2e"
+  "_id": "241c809c-682f-11f0-88c7-dabfb9862d1a"
 }

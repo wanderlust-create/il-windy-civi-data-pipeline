@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "d1899e3a-6768-11f0-8268-1e2a98079f2e",
+  "bill": "dc8b05aa-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB155",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0155_42109.pdf",
-  "_id": "d1ae71ce-6768-11f0-8268-1e2a98079f2e"
+  "_id": "dc8f4bb0-682e-11f0-88c7-dabfb9862d1a"
 }

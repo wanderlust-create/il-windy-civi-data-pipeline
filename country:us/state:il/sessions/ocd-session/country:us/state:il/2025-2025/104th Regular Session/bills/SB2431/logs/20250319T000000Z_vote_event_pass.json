@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "4bc4b068-676e-11f0-8268-1e2a98079f2e",
+  "bill": "8adf3ff4-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "SB2431",
   "votes": [
@@ -24,12 +24,6 @@
     },
     {
       "option": "yes",
-      "voter_name": "Harriss, Erica",
-      "voter_id": "~{\"name\": \"Harriss, Erica\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
       "voter_name": "Glowiak Hilton, Suzy",
       "voter_id": "~{\"name\": \"Glowiak Hilton, Suzy\"}",
       "note": ""
@@ -42,14 +36,20 @@
     },
     {
       "option": "yes",
-      "voter_name": "McClure, Steve",
-      "voter_id": "~{\"name\": \"McClure, Steve\"}",
+      "voter_name": "Villivalam, Ram",
+      "voter_id": "~{\"name\": \"Villivalam, Ram\"}",
       "note": ""
     },
     {
-      "option": "yes",
-      "voter_name": "Villivalam, Ram",
-      "voter_id": "~{\"name\": \"Villivalam, Ram\"}",
+      "option": "no",
+      "voter_name": "Harriss, Erica",
+      "voter_id": "~{\"name\": \"Harriss, Erica\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "McClure, Steve",
+      "voter_id": "~{\"name\": \"McClure, Steve\"}",
       "note": ""
     },
     {
@@ -68,11 +68,11 @@
   "counts": [
     {
       "option": "yes",
-      "value": 7
+      "value": 5
     },
     {
       "option": "no",
-      "value": 0
+      "value": 2
     },
     {
       "option": "other",
@@ -93,11 +93,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB2431SCA1_42601.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB2431_42602.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB2431SCA1_42601.pdf",
-  "_id": "4c13fc2c-676e-11f0-8268-1e2a98079f2e"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB2431_42602.pdf",
+  "_id": "8af31628-682f-11f0-88c7-dabfb9862d1a"
 }

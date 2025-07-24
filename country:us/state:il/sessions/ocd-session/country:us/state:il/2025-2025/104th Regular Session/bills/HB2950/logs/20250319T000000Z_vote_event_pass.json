@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "0d08a580-676b-11f0-8268-1e2a98079f2e",
+  "bill": "2361cb58-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB2950",
   "votes": [
@@ -99,5 +99,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2950_42666.pdf",
-  "_id": "0d2fdd94-676b-11f0-8268-1e2a98079f2e"
+  "_id": "2369f288-682f-11f0-88c7-dabfb9862d1a"
 }

@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "aae6a462-676d-11f0-8268-1e2a98079f2e",
+  "bill": "769f9430-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "SB1672",
   "votes": [
@@ -71,12 +71,6 @@
       "note": ""
     },
     {
-      "option": "yes",
-      "voter_name": "Villa, Karina",
-      "voter_id": "~{\"name\": \"Villa, Karina\"}",
-      "note": ""
-    },
-    {
       "option": "not voting",
       "voter_name": "Balkema, Chris",
       "voter_id": "~{\"name\": \"Balkema, Chris\"}",
@@ -96,6 +90,12 @@
     },
     {
       "option": "not voting",
+      "voter_name": "Villa, Karina",
+      "voter_id": "~{\"name\": \"Villa, Karina\"}",
+      "note": ""
+    },
+    {
+      "option": "not voting",
       "voter_name": "Wilcox, Craig",
       "voter_id": "~{\"name\": \"Wilcox, Craig\"}",
       "note": ""
@@ -104,7 +104,7 @@
   "counts": [
     {
       "option": "yes",
-      "value": 11
+      "value": 10
     },
     {
       "option": "no",
@@ -124,16 +124,16 @@
     },
     {
       "option": "not voting",
-      "value": 4
+      "value": 5
     }
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1672_42258.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1672SCA1_42253.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1672_42258.pdf",
-  "_id": "ab2e6ff4-676d-11f0-8268-1e2a98079f2e"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1672SCA1_42253.pdf",
+  "_id": "76b3eebc-682f-11f0-88c7-dabfb9862d1a"
 }

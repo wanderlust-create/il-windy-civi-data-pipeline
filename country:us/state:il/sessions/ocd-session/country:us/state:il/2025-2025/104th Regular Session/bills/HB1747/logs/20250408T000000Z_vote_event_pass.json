@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "10029882-676a-11f0-8268-1e2a98079f2e",
+  "bill": "02d591d0-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB1747",
   "votes": [
@@ -165,5 +165,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1747HFA2_43296.pdf",
-  "_id": "1023fe1e-676a-11f0-8268-1e2a98079f2e"
+  "_id": "02dac286-682f-11f0-88c7-dabfb9862d1a"
 }

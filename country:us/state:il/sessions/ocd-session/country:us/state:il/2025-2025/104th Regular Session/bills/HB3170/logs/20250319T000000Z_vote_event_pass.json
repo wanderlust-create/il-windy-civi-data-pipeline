@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "3b9a5dd0-676b-11f0-8268-1e2a98079f2e",
+  "bill": "29fd17ce-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB3170",
   "votes": [
@@ -99,5 +99,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3170_42654.pdf",
-  "_id": "3bc2c392-676b-11f0-8268-1e2a98079f2e"
+  "_id": "2a05b082-682f-11f0-88c7-dabfb9862d1a"
 }

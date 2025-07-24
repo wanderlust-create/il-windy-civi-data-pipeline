@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "56f50828-676b-11f0-8268-1e2a98079f2e",
+  "bill": "2d8da976-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB3300",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3300_43699.pdf",
-  "_id": "5736a0ee-676b-11f0-8268-1e2a98079f2e"
+  "_id": "2d9d5e52-682f-11f0-88c7-dabfb9862d1a"
 }

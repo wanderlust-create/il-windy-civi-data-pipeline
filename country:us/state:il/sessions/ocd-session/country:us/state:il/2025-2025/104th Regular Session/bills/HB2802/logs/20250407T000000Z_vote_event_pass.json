@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "ef90df4a-676a-11f0-8268-1e2a98079f2e",
+  "bill": "1fb6b4c8-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB2802",
   "votes": [
@@ -99,5 +99,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2802HFA1_43214.pdf",
-  "_id": "efc9e024-676a-11f0-8268-1e2a98079f2e"
+  "_id": "1fc39bfc-682f-11f0-88c7-dabfb9862d1a"
 }

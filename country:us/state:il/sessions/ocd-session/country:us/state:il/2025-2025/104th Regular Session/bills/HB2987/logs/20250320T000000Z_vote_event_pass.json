@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "15d9a4fc-676b-11f0-8268-1e2a98079f2e",
+  "bill": "24e83a2a-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB2987",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2987_42963.pdf",
-  "_id": "1624cc34-676b-11f0-8268-1e2a98079f2e"
+  "_id": "24feb8b8-682f-11f0-88c7-dabfb9862d1a"
 }

@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "0c3a7bf8-6769-11f0-8268-1e2a98079f2e",
+  "bill": "e3c02daa-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB448",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0448_42109.pdf",
-  "_id": "0c6353f2-6769-11f0-8268-1e2a98079f2e"
+  "_id": "e3c46794-682e-11f0-88c7-dabfb9862d1a"
 }

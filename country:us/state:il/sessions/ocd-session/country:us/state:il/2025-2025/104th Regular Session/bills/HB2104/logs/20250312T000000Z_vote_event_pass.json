@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "59ab3e12-676a-11f0-8268-1e2a98079f2e",
+  "bill": "0c200be4-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB2104",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2104_42108.pdf",
-  "_id": "59ce0974-676a-11f0-8268-1e2a98079f2e"
+  "_id": "0c2461a8-682f-11f0-88c7-dabfb9862d1a"
 }

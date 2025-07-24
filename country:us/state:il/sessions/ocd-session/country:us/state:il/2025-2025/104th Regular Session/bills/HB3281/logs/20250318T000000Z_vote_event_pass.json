@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "52f7cf3a-676b-11f0-8268-1e2a98079f2e",
+  "bill": "2d0cb00a-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB3281",
   "votes": [
@@ -135,5 +135,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3281_42371.pdf",
-  "_id": "534a8b08-676b-11f0-8268-1e2a98079f2e"
+  "_id": "2d221378-682f-11f0-88c7-dabfb9862d1a"
 }

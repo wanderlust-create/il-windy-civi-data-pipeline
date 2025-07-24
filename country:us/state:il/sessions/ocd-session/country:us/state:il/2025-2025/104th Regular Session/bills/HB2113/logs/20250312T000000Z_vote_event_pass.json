@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "5b6f8e9c-676a-11f0-8268-1e2a98079f2e",
+  "bill": "0c58e752-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB2113",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2113_42108.pdf",
-  "_id": "5b90de08-676a-11f0-8268-1e2a98079f2e"
+  "_id": "0c5d722c-682f-11f0-88c7-dabfb9862d1a"
 }

@@ -1,12 +1,12 @@
 {
   "identifier": "",
-  "motion_text": "Licensed Activities, Amendment 3",
+  "motion_text": "Licensed Activities, Amendment 2",
   "motion_classification": [],
   "start_date": "2025-05-29",
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "5cd19fa6-676e-11f0-8268-1e2a98079f2e",
+  "bill": "8d4e9b9a-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "SB2503",
   "votes": [],
@@ -38,11 +38,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB2503HFA3_44704.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB2503HFA2_44703.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB2503HFA3_44704.pdf",
-  "_id": "5d2c4e2e-676e-11f0-8268-1e2a98079f2e"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB2503HFA2_44703.pdf",
+  "_id": "8d66c0a8-682f-11f0-88c7-dabfb9862d1a"
 }

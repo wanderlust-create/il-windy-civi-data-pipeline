@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "266ae242-6769-11f0-8268-1e2a98079f2e",
+  "bill": "e6fd9aa2-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB579",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0579_42109.pdf",
-  "_id": "268bc6ec-6769-11f0-8268-1e2a98079f2e"
+  "_id": "e701f598-682e-11f0-88c7-dabfb9862d1a"
 }

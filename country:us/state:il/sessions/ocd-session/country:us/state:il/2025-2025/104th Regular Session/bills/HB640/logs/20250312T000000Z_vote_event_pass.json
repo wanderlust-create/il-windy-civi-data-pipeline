@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "32ba8f52-6769-11f0-8268-1e2a98079f2e",
+  "bill": "e878f502-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB640",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0640_42109.pdf",
-  "_id": "32da4392-6769-11f0-8268-1e2a98079f2e"
+  "_id": "e87d48b4-682e-11f0-88c7-dabfb9862d1a"
 }

@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "f9fd4006-6768-11f0-8268-1e2a98079f2e",
+  "bill": "e185ad58-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB357",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0357_42109.pdf",
-  "_id": "fa1d2826-6768-11f0-8268-1e2a98079f2e"
+  "_id": "e189fa34-682e-11f0-88c7-dabfb9862d1a"
 }

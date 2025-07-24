@@ -8,7 +8,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "7d6fa44c-676e-11f0-8268-1e2a98079f2e",
+  "bill": "9071a70e-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "SR4",
   "votes": [
@@ -395,5 +395,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/10400SR0004_01092025_001000D.pdf",
-  "_id": "7da106d6-676e-11f0-8268-1e2a98079f2e"
+  "_id": "90801c94-682f-11f0-88c7-dabfb9862d1a"
 }

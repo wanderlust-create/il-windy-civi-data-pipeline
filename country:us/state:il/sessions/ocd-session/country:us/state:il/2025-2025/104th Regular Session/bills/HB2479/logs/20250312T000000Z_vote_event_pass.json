@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "a9421cde-676a-11f0-8268-1e2a98079f2e",
+  "bill": "16cf72f0-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB2479",
   "votes": [
@@ -111,5 +111,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2479_42050.pdf",
-  "_id": "a964d986-676a-11f0-8268-1e2a98079f2e"
+  "_id": "16d3f280-682f-11f0-88c7-dabfb9862d1a"
 }

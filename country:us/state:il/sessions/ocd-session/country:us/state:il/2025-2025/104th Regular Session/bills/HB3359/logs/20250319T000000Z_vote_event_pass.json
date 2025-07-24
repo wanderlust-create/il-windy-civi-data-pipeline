@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "63fdf746-676b-11f0-8268-1e2a98079f2e",
+  "bill": "2f4ce5f6-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB3359",
   "votes": [
@@ -165,5 +165,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3359_42488.pdf",
-  "_id": "642f7f50-676b-11f0-8268-1e2a98079f2e"
+  "_id": "2f58d6ae-682f-11f0-88c7-dabfb9862d1a"
 }

@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "c34b3da0-676e-11f0-8268-1e2a98079f2e",
+  "bill": "96a0eaea-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "SJR39",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SJR0039_44584.pdf",
-  "_id": "c36f9eb6-676e-11f0-8268-1e2a98079f2e"
+  "_id": "96a55e22-682f-11f0-88c7-dabfb9862d1a"
 }

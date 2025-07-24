@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "f81a5e68-6768-11f0-8268-1e2a98079f2e",
+  "bill": "e14747c0-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB347",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0347_42109.pdf",
-  "_id": "f83bed44-6768-11f0-8268-1e2a98079f2e"
+  "_id": "e14bb6e8-682e-11f0-88c7-dabfb9862d1a"
 }

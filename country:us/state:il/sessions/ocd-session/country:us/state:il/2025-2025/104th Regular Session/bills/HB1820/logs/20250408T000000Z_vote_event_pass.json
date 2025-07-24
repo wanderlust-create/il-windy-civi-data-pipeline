@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "1eb96694-676a-11f0-8268-1e2a98079f2e",
+  "bill": "04aa8236-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB1820",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1820HFA1_43250.pdf",
-  "_id": "1edcf172-676a-11f0-8268-1e2a98079f2e"
+  "_id": "04af61f2-682f-11f0-88c7-dabfb9862d1a"
 }

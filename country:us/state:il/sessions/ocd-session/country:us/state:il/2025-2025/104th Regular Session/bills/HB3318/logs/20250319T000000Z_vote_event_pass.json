@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "5ae9443a-676b-11f0-8268-1e2a98079f2e",
+  "bill": "2e0d473a-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB3318",
   "votes": [
@@ -135,5 +135,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3318_42528.pdf",
-  "_id": "5b15a962-676b-11f0-8268-1e2a98079f2e"
+  "_id": "2e1438ce-682f-11f0-88c7-dabfb9862d1a"
 }

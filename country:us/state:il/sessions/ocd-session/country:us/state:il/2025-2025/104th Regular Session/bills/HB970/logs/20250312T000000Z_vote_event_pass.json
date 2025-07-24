@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "74316532-6769-11f0-8268-1e2a98079f2e",
+  "bill": "f0d6fa5a-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB970",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0970_42109.pdf",
-  "_id": "7451b6b6-6769-11f0-8268-1e2a98079f2e"
+  "_id": "f0db357a-682e-11f0-88c7-dabfb9862d1a"
 }

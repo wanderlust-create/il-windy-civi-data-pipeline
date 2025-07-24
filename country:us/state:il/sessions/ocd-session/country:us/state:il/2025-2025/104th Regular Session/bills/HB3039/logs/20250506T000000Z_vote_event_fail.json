@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "21028998-676b-11f0-8268-1e2a98079f2e",
+  "bill": "26608628-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB3039",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3039_43937.pdf",
-  "_id": "212f2782-676b-11f0-8268-1e2a98079f2e"
+  "_id": "266ad9c0-682f-11f0-88c7-dabfb9862d1a"
 }

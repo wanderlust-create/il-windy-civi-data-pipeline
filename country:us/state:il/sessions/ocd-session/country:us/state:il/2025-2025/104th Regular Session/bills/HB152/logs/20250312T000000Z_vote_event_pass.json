@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "d0e7b35e-6768-11f0-8268-1e2a98079f2e",
+  "bill": "dc7887a4-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB152",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0152_42109.pdf",
-  "_id": "d10f2fd8-6768-11f0-8268-1e2a98079f2e"
+  "_id": "dc7cdcc8-682e-11f0-88c7-dabfb9862d1a"
 }

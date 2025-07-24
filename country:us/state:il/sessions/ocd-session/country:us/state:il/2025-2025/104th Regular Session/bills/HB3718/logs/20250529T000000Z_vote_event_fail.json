@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "b1d474f4-676b-11f0-8268-1e2a98079f2e",
+  "bill": "39fc4ef6-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB3718",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3718SCA1_44627.pdf",
-  "_id": "b20cde98-676b-11f0-8268-1e2a98079f2e"
+  "_id": "3a09d4fe-682f-11f0-88c7-dabfb9862d1a"
 }

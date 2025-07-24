@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "596be83a-6769-11f0-8268-1e2a98079f2e",
+  "bill": "ed63581e-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB836",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0836_42109.pdf",
-  "_id": "598e96aa-6769-11f0-8268-1e2a98079f2e"
+  "_id": "ed67b6ac-682e-11f0-88c7-dabfb9862d1a"
 }

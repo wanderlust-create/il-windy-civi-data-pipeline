@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "2787baae-676b-11f0-8268-1e2a98079f2e",
+  "bill": "27569b9e-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB3070",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB3070_42500.pdf",
-  "_id": "27aade12-676b-11f0-8268-1e2a98079f2e"
+  "_id": "275b382a-682f-11f0-88c7-dabfb9862d1a"
 }

@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "c034b966-676e-11f0-8268-1e2a98079f2e",
+  "bill": "964c6c22-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "SJR24",
   "votes": [
@@ -123,5 +123,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SJR0024_43114.pdf",
-  "_id": "c0613a68-676e-11f0-8268-1e2a98079f2e"
+  "_id": "96537738-682f-11f0-88c7-dabfb9862d1a"
 }

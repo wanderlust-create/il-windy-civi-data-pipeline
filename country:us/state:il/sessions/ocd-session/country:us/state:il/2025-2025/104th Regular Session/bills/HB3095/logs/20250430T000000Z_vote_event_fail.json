@@ -6,7 +6,7 @@
   "result": "fail",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "2c9a110e-676b-11f0-8268-1e2a98079f2e",
+  "bill": "27fe8200-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB3095",
   "votes": [],
@@ -44,5 +44,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400HB3095_43759.pdf",
-  "_id": "2cc8c666-676b-11f0-8268-1e2a98079f2e"
+  "_id": "2808a136-682f-11f0-88c7-dabfb9862d1a"
 }

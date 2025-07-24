@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "80d8030e-676e-11f0-8268-1e2a98079f2e",
+  "bill": "90c57fa0-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "SR22",
   "votes": [
@@ -105,5 +105,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SR0022_42867.pdf",
-  "_id": "80fae072-676e-11f0-8268-1e2a98079f2e"
+  "_id": "90ca0156-682f-11f0-88c7-dabfb9862d1a"
 }

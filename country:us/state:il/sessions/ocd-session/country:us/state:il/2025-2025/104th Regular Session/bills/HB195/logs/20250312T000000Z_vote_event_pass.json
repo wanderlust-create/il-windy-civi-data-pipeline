@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "d98a787a-6768-11f0-8268-1e2a98079f2e",
+  "bill": "dd84d846-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB195",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0195_42109.pdf",
-  "_id": "d9a949d0-6768-11f0-8268-1e2a98079f2e"
+  "_id": "dd894eb2-682e-11f0-88c7-dabfb9862d1a"
 }

@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "f6c51e4a-6768-11f0-8268-1e2a98079f2e",
+  "bill": "e11be42c-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB340",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0340_42109.pdf",
-  "_id": "f6e64a16-6768-11f0-8268-1e2a98079f2e"
+  "_id": "e12030a4-682e-11f0-88c7-dabfb9862d1a"
 }

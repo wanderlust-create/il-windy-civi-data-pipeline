@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "998ab4c8-676e-11f0-8268-1e2a98079f2e",
+  "bill": "92ecf4d4-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "SR159",
   "votes": [
@@ -105,5 +105,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SR0159_43267.pdf",
-  "_id": "99abdaf4-676e-11f0-8268-1e2a98079f2e"
+  "_id": "92f17c5c-682f-11f0-88c7-dabfb9862d1a"
 }

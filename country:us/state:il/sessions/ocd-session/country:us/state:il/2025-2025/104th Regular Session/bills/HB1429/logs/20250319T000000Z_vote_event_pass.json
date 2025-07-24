@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "d059f450-6769-11f0-8268-1e2a98079f2e",
+  "bill": "fb85245e-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB1429",
   "votes": [
@@ -153,5 +153,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1429_42577.pdf",
-  "_id": "d07f85b2-6769-11f0-8268-1e2a98079f2e"
+  "_id": "fb8ac774-682e-11f0-88c7-dabfb9862d1a"
 }

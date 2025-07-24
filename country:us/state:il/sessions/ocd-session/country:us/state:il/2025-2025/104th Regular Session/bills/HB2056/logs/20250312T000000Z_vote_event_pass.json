@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "500f57a8-676a-11f0-8268-1e2a98079f2e",
+  "bill": "0aef872c-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB2056",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2056_42108.pdf",
-  "_id": "50301b00-676a-11f0-8268-1e2a98079f2e"
+  "_id": "0af3cc4c-682f-11f0-88c7-dabfb9862d1a"
 }

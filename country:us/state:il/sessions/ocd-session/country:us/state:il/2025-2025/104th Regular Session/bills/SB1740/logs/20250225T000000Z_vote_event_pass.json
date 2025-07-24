@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "b9408118-676d-11f0-8268-1e2a98079f2e",
+  "bill": "78646a2a-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "SB1740",
   "votes": [
@@ -18,20 +18,8 @@
     },
     {
       "option": "yes",
-      "voter_name": "Balkema, Chris",
-      "voter_id": "~{\"name\": \"Balkema, Chris\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
       "voter_name": "Edly-Allen, Mary",
       "voter_id": "~{\"name\": \"Edly-Allen, Mary\"}",
-      "note": ""
-    },
-    {
-      "option": "yes",
-      "voter_name": "DeWitte, Donald P",
-      "voter_id": "~{\"name\": \"DeWitte, Donald P\"}",
       "note": ""
     },
     {
@@ -78,14 +66,26 @@
     },
     {
       "option": "yes",
-      "voter_name": "Wilcox, Craig",
-      "voter_id": "~{\"name\": \"Wilcox, Craig\"}",
+      "voter_name": "Villivalam, Ram",
+      "voter_id": "~{\"name\": \"Villivalam, Ram\"}",
       "note": ""
     },
     {
-      "option": "yes",
-      "voter_name": "Villivalam, Ram",
-      "voter_id": "~{\"name\": \"Villivalam, Ram\"}",
+      "option": "no",
+      "voter_name": "Balkema, Chris",
+      "voter_id": "~{\"name\": \"Balkema, Chris\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "DeWitte, Donald P",
+      "voter_id": "~{\"name\": \"DeWitte, Donald P\"}",
+      "note": ""
+    },
+    {
+      "option": "no",
+      "voter_name": "Wilcox, Craig",
+      "voter_id": "~{\"name\": \"Wilcox, Craig\"}",
       "note": ""
     },
     {
@@ -98,11 +98,11 @@
   "counts": [
     {
       "option": "yes",
-      "value": 13
+      "value": 10
     },
     {
       "option": "no",
-      "value": 0
+      "value": 3
     },
     {
       "option": "other",
@@ -123,11 +123,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1740SCA2_41738.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1740_41739.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1740SCA2_41738.pdf",
-  "_id": "b9baafa6-676d-11f0-8268-1e2a98079f2e"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/senate/committeevotes/10400SB1740_41739.pdf",
+  "_id": "78852968-682f-11f0-88c7-dabfb9862d1a"
 }

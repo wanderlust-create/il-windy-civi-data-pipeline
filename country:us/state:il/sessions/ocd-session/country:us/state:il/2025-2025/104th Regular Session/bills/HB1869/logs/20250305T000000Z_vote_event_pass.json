@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "2a8d7870-676a-11f0-8268-1e2a98079f2e",
+  "bill": "065c5442-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB1869",
   "votes": [
@@ -99,5 +99,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB1869_41886.pdf",
-  "_id": "2ab8fef0-676a-11f0-8268-1e2a98079f2e"
+  "_id": "06636f0c-682f-11f0-88c7-dabfb9862d1a"
 }

@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "d25401e8-6768-11f0-8268-1e2a98079f2e",
+  "bill": "dca39aa2-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB159",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0159_42109.pdf",
-  "_id": "d27582e6-6768-11f0-8268-1e2a98079f2e"
+  "_id": "dca7f5d4-682e-11f0-88c7-dabfb9862d1a"
 }

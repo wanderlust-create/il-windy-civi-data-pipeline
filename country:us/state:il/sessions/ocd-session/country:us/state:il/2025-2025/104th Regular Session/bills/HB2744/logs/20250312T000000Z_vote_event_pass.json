@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "e1f3a3ae-676a-11f0-8268-1e2a98079f2e",
+  "bill": "1dc5ca8c-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB2744",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2744_42114.pdf",
-  "_id": "e2188d40-676a-11f0-8268-1e2a98079f2e"
+  "_id": "1dcad720-682f-11f0-88c7-dabfb9862d1a"
 }

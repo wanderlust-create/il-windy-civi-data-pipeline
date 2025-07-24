@@ -1,12 +1,12 @@
 {
   "identifier": "",
-  "motion_text": "Concurrence, Amendment 4",
+  "motion_text": "Concurrence",
   "motion_classification": [],
   "start_date": "2025-05-30",
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "877511b4-676b-11f0-8268-1e2a98079f2e",
+  "bill": "343a2ace-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB3522",
   "votes": [
@@ -741,11 +741,11 @@
   ],
   "sources": [
     {
-      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB3522sam004_05302025_046001C.pdf",
+      "url": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB3522sam003_05302025_046000C.pdf",
       "note": ""
     }
   ],
   "extras": {},
-  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB3522sam004_05302025_046001C.pdf",
-  "_id": "87b79534-676b-11f0-8268-1e2a98079f2e"
+  "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/10400HB3522sam003_05302025_046000C.pdf",
+  "_id": "34449c5c-682f-11f0-88c7-dabfb9862d1a"
 }

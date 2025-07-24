@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "d156875c-6768-11f0-8268-1e2a98079f2e",
+  "bill": "dc84ef12-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB154",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0154_42109.pdf",
-  "_id": "d179c884-6768-11f0-8268-1e2a98079f2e"
+  "_id": "dc892a78-682e-11f0-88c7-dabfb9862d1a"
 }

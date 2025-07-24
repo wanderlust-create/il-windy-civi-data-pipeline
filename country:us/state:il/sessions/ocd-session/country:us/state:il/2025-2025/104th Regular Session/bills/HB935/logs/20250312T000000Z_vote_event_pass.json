@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "6d5a5fc0-6769-11f0-8268-1e2a98079f2e",
+  "bill": "efff8930-682e-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB935",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB0935_42109.pdf",
-  "_id": "6d7d850e-6769-11f0-8268-1e2a98079f2e"
+  "_id": "f003ce50-682e-11f0-88c7-dabfb9862d1a"
 }

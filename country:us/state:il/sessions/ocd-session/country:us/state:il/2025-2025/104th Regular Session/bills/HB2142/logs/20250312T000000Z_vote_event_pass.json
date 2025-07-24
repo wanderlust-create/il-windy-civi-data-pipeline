@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "616102ae-676a-11f0-8268-1e2a98079f2e",
+  "bill": "0d233a0c-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB2142",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2142_42108.pdf",
-  "_id": "619d6410-676a-11f0-8268-1e2a98079f2e"
+  "_id": "0d31b29e-682f-11f0-88c7-dabfb9862d1a"
 }

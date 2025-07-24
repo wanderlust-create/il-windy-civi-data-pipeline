@@ -6,7 +6,7 @@
   "result": "pass",
   "organization": "~{\"classification\": \"lower\"}",
   "legislative_session": "104th",
-  "bill": "6a3e8d1a-676a-11f0-8268-1e2a98079f2e",
+  "bill": "0e50cad4-682f-11f0-88c7-dabfb9862d1a",
   "bill_action": null,
   "bill_identifier": "HB2185",
   "votes": [
@@ -117,5 +117,5 @@
   ],
   "extras": {},
   "dedupe_key": "https://beta.ilga.gov/Documents/legislation/votehistory/104/house/committeevotes/10400HB2185_42108.pdf",
-  "_id": "6a60206a-676a-11f0-8268-1e2a98079f2e"
+  "_id": "0e552b9c-682f-11f0-88c7-dabfb9862d1a"
 }
